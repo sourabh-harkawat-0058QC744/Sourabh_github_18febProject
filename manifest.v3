@@ -10,18 +10,18 @@
   <null name="shutdown_services"/>
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
-    <value name="AzRepoMultiplyPackage">1.0</value>
+    <value name="AzRepoMultiplyPackage">3.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">3</value>
+  <value name="build">4</value>
   <null name="description"/>
   <value name="created_date">18-02-2026 08:59:58 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-02-18T09:01:57.988006262Z</value>
+  <value name="lastUpdated">2026-02-18T09:03:22.781206103Z</value>
   <value name="wmProjectId">fl484b3f167ad54c1d8cc298e5ecb3a54c</value>
   <value name="creator">Sourabh Harkawat</value>
 </Values>
