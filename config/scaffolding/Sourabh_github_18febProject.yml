@@ -7,6 +7,11 @@ packages:
   gitUrl: https://github.com/sourabh-harkawat-0058QC744
   gitUsername: sourabh-harkawat-0058QC744
   gitBranch: main
+- name: AzRepoMultiplyPackage
+  gitServerName: srcCtrl_AzRepos_Arti
+  gitUrl: https://dev.azure.com/ArtiKhare/AzRepoMultiplyPackage/_git
+  gitUsername: ArtiKhare
+  gitBranch: main
 configurationVariables:
   jdbc.Embedded-Database-Pool.waitingThread: "0"
   jdbcfunc.ISDashboardStats.failFastMode: false
